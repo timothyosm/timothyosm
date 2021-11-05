@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**timothyosm/timothyosm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Things i've worked on
+* CSD+
+  * A chrome extension used by Civica that revamps their ticketing system
+* https://aussiecrimestats.com/
+  * A site used to track and map crime statistics throughtout australia
+  * Featured on bell tower times
+  * 200k users
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech i like 👨‍💻
+- React
+- Ionic
+- GraphQL
+- Node.js
+- Javascript
+- postgresql
