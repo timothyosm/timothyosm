@@ -1,9 +1,7 @@
-## Hello there 👋
-
 ## Currently a Dev @ Education Horizons
  * Working with React, Node.js and postgresql 
 
-### Things i've worked on
+## Things i've worked on
 * CSD+
   * A chrome extension used by Civica that revamps their ticketing system
 
@@ -13,7 +11,7 @@
   * Featured on bell tower times
   * 200k users
 
-### Tech i like 👨‍💻
+## Tech i like 👨‍💻
 - React
 - Ionic
 - GraphQL
