@@ -10,7 +10,7 @@
   * A site used to track and map crime statistics throughout Australia
   * Featured on Bell Tower Times
   * 200k users
-  *  *  *  *  *
+* *  *  *  *  *
 
 ### Tech i like 👨‍💻
 - React
@@ -20,4 +20,4 @@
 - Javascript
 - MongoDb
 - postgresql
-  *  *  *  *  *
+*  *  *  *  *
