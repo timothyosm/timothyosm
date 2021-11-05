@@ -1,5 +1,6 @@
 ### Currently a Dev @ Education Horizons 💻
  * Working with React, Node.js and postgresql 
+  *  *  *  *  *
 
 ### Things i've worked on 🔧
 * CSD+
@@ -9,6 +10,7 @@
   * A site used to track and map crime statistics throughout Australia
   * Featured on Bell Tower Times
   * 200k users
+  *  *  *  *  *
 
 ### Tech i like 👨‍💻
 - React
@@ -18,3 +20,4 @@
 - Javascript
 - MongoDb
 - postgresql
+  *  *  *  *  *
