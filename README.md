@@ -2,7 +2,7 @@
  * Working with React, Node.js and postgresql 
 *  *  *  *  *
 
-### 🔧 Things i've worked on
+### 🔧 Things i've built
 * CSD+
   * A chrome extension used by Civica that revamps their ticketing system
   * Scrapes the system and build dynamic replies
