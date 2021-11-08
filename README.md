@@ -14,6 +14,8 @@
   * Featured on Bell Tower Times
   * 200k users
 *  *  *  *  *
+### 💬 Ask me about
+* The tool i'm building that analyses social media platforms and lets you scheduele posts for optimal reach
 
 ### 👨‍💻 Tech i like 
 - React
