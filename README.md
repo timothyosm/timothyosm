@@ -1,5 +1,5 @@
-### 💻 Currently a Dev @ Education Horizons
- * Working with React and Express 
+### 💻 Currently a Dev @ Fluency
+ 
 *  *  *  *  *
 I like to build fun things
 - https://timothyosmond.com
