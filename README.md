@@ -1,4 +1,3 @@
-### 💻 Currently a Dev @ Fluency
  
 *  *  *  *  *
 I like to build fun things
